@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+:root {
+    --ultraviolet: #54428E;
+    --amethyst: #8963BA;
+    --caputmortuum: #5E3023;
+    --amber: #FFBE0B;
+    --mimipink: #F5CCE8;
+    --preto: #000000;
+    --branco: #ffffff;
+}
+
+body {
+    background-color: #FFBE0B;
+    font-family: sans-serif;
+}
+
+p {
+    color:#ffffff;
+    background-color: #8963BA;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+li {
+    font-size: 1.5em;
+}
